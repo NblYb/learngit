@@ -1,2 +1,3 @@
 effect stashed github
+master
 new branch
